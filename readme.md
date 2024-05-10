@@ -1,6 +1,6 @@
 # É acessível?
 
-![Funcionamento do É Acessível?](https://github.com/caionunespn/imersao_ai_acessivel/blob/main/e-acessivel.gif?raw=true)
+![Funcionamento do É Acessível?](https://github.com/caionunespn/imersao_ai_acessivel/blob/main/web/public/e-acessivel.gif?raw=true)
 
 ## Sobre o projeto
 
