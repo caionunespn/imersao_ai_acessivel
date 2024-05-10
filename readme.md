@@ -1,6 +1,6 @@
 # É acessível?
 
-![Logo](link-da-logo-aqui)
+![Funcionamento do É Acessível?](https://github.com/caionunespn/imersao_ai_acessivel/blob/main/e-acessivel.gif?raw=true)
 
 ## Sobre o projeto
 
@@ -39,7 +39,11 @@ A acessibilidade é uma parte essencial do desenvolvimento de produtos e serviç
     pip install -r requirements.txt
     ```
 
-3. **Inicie o "É acessível?"**:
+3. **Adicione sua API_KEY**:
+
+    Acesse o arquivo config.py e adicione sua API_KEY do Google AI Studio
+
+4. **Inicie o "É acessível?"**:
 
     Inicie o chatbot com o comando a seguir:
 
