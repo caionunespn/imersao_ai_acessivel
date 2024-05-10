@@ -2,10 +2,19 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+ul, ol {
+  list-style-position: inside;
+}
+
+body {
+  background-color: #121212;
 }
 
 #chat-container {
-  width: 600px;
+  width: 800px;
   height: 600px;
   border-radius: 8px;
   display: flex;
@@ -102,4 +111,9 @@ a {
 
 #upload-button:hover {
   background-color: #5b36a2;
+}
+
+.message-image {
+  margin-bottom: 4px;
+  border-radius: 4px;
 }
